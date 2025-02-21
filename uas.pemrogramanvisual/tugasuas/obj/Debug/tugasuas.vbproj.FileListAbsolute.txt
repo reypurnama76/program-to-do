@@ -1,0 +1,12 @@
+C:\Users\Reynaldi\source\repos\tugasuas\tugasuas\obj\Debug\tugasuas.vbproj.AssemblyReference.cache
+C:\Users\Reynaldi\source\repos\tugasuas\tugasuas\obj\Debug\tugasuas.Form1.resources
+C:\Users\Reynaldi\source\repos\tugasuas\tugasuas\obj\Debug\tugasuas.Resources.resources
+C:\Users\Reynaldi\source\repos\tugasuas\tugasuas\obj\Debug\tugasuas.vbproj.GenerateResource.cache
+C:\Users\Reynaldi\source\repos\tugasuas\tugasuas\obj\Debug\tugasuas.vbproj.CoreCompileInputs.cache
+C:\Users\Reynaldi\source\repos\tugasuas\tugasuas\bin\Debug\tugasuas.exe.config
+C:\Users\Reynaldi\source\repos\tugasuas\tugasuas\bin\Debug\tugasuas.exe
+C:\Users\Reynaldi\source\repos\tugasuas\tugasuas\bin\Debug\tugasuas.pdb
+C:\Users\Reynaldi\source\repos\tugasuas\tugasuas\bin\Debug\tugasuas.xml
+C:\Users\Reynaldi\source\repos\tugasuas\tugasuas\obj\Debug\tugasuas.exe
+C:\Users\Reynaldi\source\repos\tugasuas\tugasuas\obj\Debug\tugasuas.xml
+C:\Users\Reynaldi\source\repos\tugasuas\tugasuas\obj\Debug\tugasuas.pdb
